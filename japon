@@ -1,0 +1,1152 @@
+
+<!doctype html>
+<html dir="ltr" lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
+<head>
+<title>The Gourmet Green Tea Shop | Thés du Japon</title>
+<meta charset="utf-8">
+<meta name="keywords" content="tea shop, best green tea, Japanese tea, matcha.">
+<meta name="description" content="Thés du Japon is an online tea shop specializing in the best green tea varieries, personally selected by our tea sommeliers - We ship tes worldwide from Japan!">
+<meta name="author" content="The Zen Cart&reg; Team and others" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="shopping cart program by Zen Cart&reg;, http://www.zen-cart.com eCommerce">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<!--[if IE 9]> <html class="ie9" lang="en"><![endif]-->
+<link href='//fonts.googleapis.com/css?family=Ubuntu:400,300,500,700&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+<base href="https://www.thes-du-japon.com/">
+<link rel="canonical" href="https://www.thes-du-japon.com/?language=en">
+
+<link rel="alternate" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=ja" hreflang="ja" />
+<link rel="alternate" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=fr" hreflang="fr" />
+<link rel="alternate" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=it" hreflang="it" />
+<link rel="alternate" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=de" hreflang="de" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_bootstrap_theme.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_categories.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_custom.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_lightbox-0.5.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_mega_menu.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_product_list.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_responsive.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/stylesheet_suggestionbox.css" />
+<link rel="stylesheet" type="text/css" href="includes/templates/theme870/css/index_home.css" />
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.elevateZoom-3.0.8.min.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.equalheights.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.matchHeight.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.simplr.smoothscroll.min.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_jquery.ui.totop.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_menu_top.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_modernizr.custom.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_script_bootstrap.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_stotal-storage.min.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_suggestionbox.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_top.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_toucheffects.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_xeasyTooltip.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_xjquery.easing.1.3.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_xjquery.jqtransform.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_xjquery.lightbox-0.5.js"></script>
+<script type="text/javascript" src="includes/templates/theme870/jscript/jscript_xjscript_script.app.js"></script>
+<script title="Structured Data: schemaOrganisation" type="application/ld+json">
+{
+     "@context": "http://schema.org",
+        "@type": "Organization",
+          "url": "https://www.thes-du-japon.com",
+         "logo": "https://www.thes-du-japon.com/includes/templates/theme870/images/logo.png",
+"contactPoint" : [{
+            "@type" : "ContactPoint",
+        "telephone" : "+81-3-5842-1315",
+      "contactType" : "customer service",
+"availableLanguage" : "Japanese,French,English"
+                  }],
+      "sameAs" : ["https://www.facebook.com/florent.weugue/",
+"https://www.thes-du-japon.com/index.php?main_page=contact_us"
+                 ],
+   "legalName" : "Aozuru-cha Thes du Japon",
+       "email" : "contact@thes-du-japon.com",
+     "faxNumber" : "+81-3-5842-1316",
+      "address": {
+            "@type": "PostalAddress",
+   "streetAddress" : "3-14-6 Yanaka",
+  "addressLocality": "Taito-ku",
+    "addressRegion": "Tokyo",
+       "postalCode": "110-0001",
+  "addressCountry" : "JP"
+                 }
+}
+</script>
+<script title="Structured Data: schemaBreadcrumb" type="application/ld+json">
+{
+       "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+"itemListElement": [
+      {
+      "@type": "ListItem",
+   "position": 1,
+       "item": {
+           "@id": "https://www.thes-du-japon.com/index.php?main_page=index",
+          "name": "Home"
+               }
+       }
+                    ]
+}
+</script>
+
+
+<!--[if IE]>
+<script type="text/javascript" src="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.4-iefix.js"></script>
+<![endif]-->
+<!--[if lt IE 8]><div style='clear:both;height:59px;padding:0 15px 0 15px;position:relative;z-index:10000;text-align:center;'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div><![endif]-->
+
+<script>
+
+  $(document).ready(function() {
+    var origsrc = $("#productMainImage span img").attr("src");
+    $("#productAdditionalImages .additionalImages a img").hover(
+    function () {
+      $("#productMainImage span img").attr('src', this.src);
+    });
+
+    $('.main-image #productMainImage .image a img').elevateZoom({
+      easing : true,
+      zoomWindowFadeIn: 500,
+      zoomWindowFadeOut: 500,
+      lensFadeIn: 500,
+      lensFadeOut: 500
+    });
+
+    var origsrc = $("#productMainImage span img").attr("src");
+    var orighref = $("#productMainImage span a").attr("href");
+  $("#productAdditionalImages .additionalImages a img").hover(
+    function () {
+    $("#productMainImage span.image a").attr('href', this.src);
+    $('.main-image #productMainImage .image a img').elevateZoom({
+        easing : true,
+        zoomWindowFadeIn: 500,
+        zoomWindowFadeOut: 500,
+        lensFadeIn: 500,
+        lensFadeOut: 500
+      });
+    });
+  });
+
+</script>
+
+<meta name="facebook-domain-verification" content="fzjoh5b4jv7ckulvvk5rxwp9hm3ivb" />
+<script src="https://my.hellobar.com/303c9aefbfa7bffc61bb6326e3c9b18e1113794f.js" type="text/javascript" charset="utf-8" async="async"> </script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G5BC70H0HH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G5BC70H0HH');
+</script></head>
+<body id="indexHomeBody">
+  
+  
+ <div id="page">
+<!-- ========== IMAGE BORDER TOP ========== --> 
+
+<!-- BOF- BANNER TOP display -->
+
+    <!-- EOF- BANNER TOP display -->
+    
+    <!-- ====================================== --> 
+
+    <!-- ========== HEADER ========== -->
+      
+
+
+
+        <header>
+            <div class="nav">
+                <div class="container">
+                    <div class="row">
+                        <nav>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <div class="bottom">
+                <div class="container">
+                    <div class="row clearfix">
+                        <div class="col-xs-12 col-md-2 col-sm-6">
+                            <div id="header_logo">
+                            <!-- ========== LOGO ========== -->
+                                <a href="https://www.thes-du-japon.com/index.php?main_page=index"><img src="includes/templates/theme870/images/logo.png" alt="" /></a>
+                            <!-- ========================== -->
+                            </div>
+                        </div>
+
+                        <div>
+                        <style>
+                            .container2 {
+                                display: table;
+                                width: 83%;
+                                padding-left:0;
+                            }
+
+                            .item2 {
+                                display: table-cell;
+                                vertical-align: top;
+                            }
+
+                            .languages_code {
+                                font-size:20px; 
+                                font-weight:bold; 
+                                margin:10px 0 25px 0;
+                            }
+
+                            .languages_ico {
+                                text-align:right;
+                                min-width:230px;
+                            }
+
+                            .megamenu_width {
+                                width:800px;
+                            }
+
+
+                            @media (max-width: 767px) {                                
+                                ul.container2  {
+                                    display:block;
+                                    width:100%;
+                                }
+                                ul.container2 li{
+                                    display:block;
+                                    border : none;
+                                    white-space:;
+                                    margin: 10px 0;
+                                }
+                                
+                                .languages_ico {
+                                    text-align:center;
+                                }
+
+                                #header_btns_area {
+                                    float : none;
+                                    text-align:center;
+                                    padding-right:35%;                            
+                                }
+                                .header_btns {
+                                    padding-top:0px;
+                                }
+                                .shopping_cart_content {
+                                    margin-right:-100px;
+                                }
+
+                                .megamenu_width {
+                                    width:100%;
+                                }
+                            }
+                        </style>
+                                                <ul class="container2">
+                        <li class="item2 languages_code">Gourmet teas straight from Japan, selected for you by our sommelier    </li>
+                        <li class="item2 languages_ico"><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=ja"><img src="includes/languages/japanese/images/icon.gif" alt="Japanese" width="35px"></a>&emsp;<a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=fr"><img src="includes/languages/french/images/icon.gif" alt="fran&#231;ais" width="35px"></a>&emsp;<a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=en"><img src="includes/languages/english/images/icon.gif" alt="English" width="35px"></a>&emsp;<a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=it"><img src="includes/languages/italian/images/icon.gif" alt="italian" width="35px"></a>&emsp;<a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;language=de"><img src="includes/languages/german/images/icon.gif" alt="german" width="35px"></a></li>
+                        </ul>
+
+                        </div>
+
+
+                        <div class="col-xs-12 col-md-2 col-sm-6 fright" id="header_btns_area">
+                            <div class="header_btns">
+                                <div class="user_info"><i class="fa fa-user" style="font-size:20px"></i></div>
+                                <div class="search_btn"><i class="fa fa-search" style="font-size:20px"></i></div>
+                            </div>
+                            <div id="search_block" class="clearfix">
+                                <!-- ========== SEARCH ========== -->
+                                <form name="quick_find_header" action="https://www.thes-du-japon.com/index.php?main_page=advanced_search_result" method="get" class="form-inline form-search pull-right">
+                                    <input type="hidden" name="main_page" value="advanced_search_result" /><input type="hidden" name="search_in_description" value="1" />                                    <label class="sr-only" for="searchInput">Search</label>
+                                    <input class="form-control" id="searchInput" type="text" name="keyword" />
+                                    <button type="submit" class="button-search"><i class="fa fa-search"></i><b>Search</b></button>
+                                </form>
+                                <!-- ============================ -->
+                            </div> 
+                            <ul class="header_user_info customer_links">
+                                <!-- ========== NAVIGATION LINKS ========== --> 
+                                                                        <li><a class="" href="https://www.thes-du-japon.com/index.php?main_page=account">My Account</a> </li>
+                                    <li><a class="" href="https://www.thes-du-japon.com/index.php?main_page=login">Log In</a></li>
+                                      
+                                                                    <!-- ====================================== -->
+                            </ul>
+                            <div class="shopping_cart" id="shopping_cart">
+                                <!-- ========== SHOPPING CART ========== -->
+                                                                <div class="shop-box-wrap">
+                                    <span class="cart_title"></span><span class="st3"> 0 </span>                                </div>
+                                <div class="shopping_cart_content" id="shopping_cart_content" >
+                                    <div class="none"> Your cart is empty.</div>                                </div>
+                                <!-- =================================== --> 
+                            </div>
+                        </div> 
+                        <div class="col-xs-12 col-md-7 fleft megamenu_width">
+                                                            <div class="cat-title">MENU</div>
+                                <!--bof-mega menu display-->
+                                  
+<div id="mega-wrapper" class="stickUpTop"><!-- bof mega-wrapper -->
+
+    <ul class="mega-menu col-sm-12"><!-- bof mega-menu -->
+            <li class="categories-li"><a class="drop">Japanese tea<span class="label"></span></a><!-- bof cateories    -->
+     
+            <div class="dropdown col-9">
+<div class="levels">
+    <ul class="level2">
+        <li data-match-height="cat-ul-gen" class="submenu col-inner">
+            <a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130">Types of tea</a>
+            <ul class="level3">
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_238">Special offer</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_3">Sencha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_31">Kamairi-cha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_4">Gyokuro</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_30">Tamaryoku-cha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_6">Kabuse-cha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_7">Matcha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_33">Japanese black tea</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_261">Oolong tea</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_32">Hôji-cha <br />& Genmaicha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_103">Kuki-cha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_130_114">Bancha</a></li>
+          </ul>
+        </li>
+        <li data-match-height="cat-ul-gen" class="submenu col-inner">
+            <a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115">Tea producing regions</a>
+            <ul class="level3">
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_132">Sashima, Okukuji (Ibaraki)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_131">Sayama</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_119">Shizuoka</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_254">Murakami (Niigata)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_143">Toyama</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_133">Ise (Mie)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_134">Asamiya (Shiga)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_120">Kyôto (Uji)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_240">Uji-Shirakawa, Tsujiki Matcha</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_135">Mimasaka (Okayama)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_263">Awa (Tokushima)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_136">Tosa (Kôchi)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_137">Yame (Fukuoka)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_138">Ureshino (Saga)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_140">Sonogi (Nagasaki)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_141">Miyazaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_139">Kumamoto</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_115_142">Kagoshima</a></li>
+          </ul>
+        </li>
+        <li data-match-height="cat-ul-gen" class="submenu col-inner">
+            <a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116">Japanese tea cultivars</a>
+            <ul class="level3">
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_163">Asahi</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_233">Asanoka</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_168">Asatsuyu</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_256">Beni-ibara</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_158">Benifûki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_159">Benihikari</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_237">Benihomare</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_255">Benitsukuba</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_218">Fuji-kaori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_235">Fukumidori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_165">Gokô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_162">Haru-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_169">Hokumei</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_234">Hôshun</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_148">Inzatsu 131</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_157">Izumi</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_146">Kanaya-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_160">Karabeni</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_267">Kirari 31</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_170">Kogane-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_217">Kôju</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_230">Kondô-wase</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_122">Kôshun</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_150">Kurasawa</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_231">Kurita-wase</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_236">Kyôken-283</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_246">Kyô-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_156">Musashi-kaori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_239">Minami-Sayaka</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_219">Mine-kaori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_155">Oku-haruka</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_144">Oku-hikari</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_145">Oku-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_214">Oku-yutaka</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_161">Ômune</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_248">Qingxin-wulong</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_215">Ryôfû</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_271">Sae-akari</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_171">Saemidori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_164">Samidori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_152">Sayama-kaori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_153">Sayama-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_266">Seimei</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_243">Shizu-kaori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_149">Shizu-7132</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_251">Shuntarô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_213">Sôfû</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_245">Sun-Rouge</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_262">Tamamidori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_222">Tsuyu-hikari</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_167">Uji-hikari</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_166">Uji-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_220">Unkai</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_121">Yabukita</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_147">Yamakai</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_216">Yamanami</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_265">Yume-kaori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_154">Yume-wakaba</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_244">Yutaka-midori</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=1_116_172">"Zairai"</a></li>
+          </ul>
+        </li>
+    </ul>
+</div>
+               </div>
+        </li><!-- eof categories  -->
+            <li class="categories-li"><a class="drop">Tea ware<span class="label"></span></a><!-- bof cateories    -->
+     
+            <div class="dropdown col-9">
+<div class="levels">
+    <ul class="level2">
+        <li data-match-height="cat-ul-gen" class="submenu col-inner">
+            <a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127">Tea ware types</a>
+            <ul class="level3">
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_9">Teapots</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_10">Tea cups</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_14">Yuzamashi</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_11">Bowls</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_29">Matcha accessories</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_16">Tea caddies</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_113">Japanese tinware</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_15">Iron kettles</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_127_28">Others</a></li>
+          </ul>
+        </li>
+        <li data-match-height="cat-ul-gen" class="submenu col-inner">
+            <a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128">Production centres</a>
+            <ul class="level3">
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_180">Yamanaka lacquerware</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_179">Takayama chasen</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_177">Ôsaka-Naniwa tin</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_176">Kyoto cast iron</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_175">Nanbu cast iron</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_174">Arita-yaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_173">Hasami-yaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_107">Tokoname-yaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_108">Banko-yaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_109">Bizen-yaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_128_110">Hagi-yaki</a></li>
+          </ul>
+        </li>
+        <li data-match-height="cat-ul-gen" class="submenu col-inner">
+            <a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129">Artisans and workshops</a>
+            <ul class="level3">
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_178">Asahi-yaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_182">Bigetsu</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_250">Chiba Mitsuhiro</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_269">Fujita Tokuta</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_201">Fujiwara Akira</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_211">Funasaki Tôru</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_221">Gyokkô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_197">Hakusan</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_196">Hokuryû</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_183">Iroku</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_126">Itô Gafû</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_193">Jinshû (Itô Seiji)</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_258">Jitsuzan</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_111">Katase Kazuhiro</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_208">Kikuchi Shingo</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_189">Kobashi Masaaki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_249">Maekawa Junzô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_232">Matsuo Ichiro</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_229">Mizuno Hiroshi</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_212">Mukuhara Kashun</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_268">Murakami Yû.ichi</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_259">Murakoshi Fûgetsu</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_264">Nagayanagi Kôsei</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_191">Murata Yoshiki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_260">Nakada Hikaru</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_203">Nishi Takayuki</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_195">Nobuhara Katsushi</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_223">Ôtsuki Shun</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_209">Saihô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_225">Sasaoka Hôzan</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_224">Sasaoka Motozô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_226">Sawada Shôson II</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_252">Sawada Tomohiro</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_185">Shimizu Jun</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_186">Shimizu Ushio</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_192">Shiraiwa Taisuke</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_190">Shûkei</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_227">Sôkô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_184">Suigetsu</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_188">Taisen</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_204">Takasuke kiln</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_270">Tsuzuki Yutaka</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_187">Yamada Yûtarô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_206">Yamahei Kiln</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_125">Yamamoto Hiromi</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_210">Yamane Seigan</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_207">Yoshiha Yohei</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_228">Yoshikawa Setsudô</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_247">Yûsen I</a></li>
+            
+<li><a href="https://www.thes-du-japon.com/index.php?main_page=index&amp;cPath=2_129_241">Yûsen II</a></li>
+          </ul>
+        </li>
+    </ul>
+</div>
+               </div>
+        </li><!-- eof categories  -->
+            
+<li class="information-li"><a class="drop">About Japanese tea</a>
+  <div class="dropdown col-3">
+	 <ul>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=4">An Overview of Japanese Green Tea</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=31">How to Make the Right Choice of Tea</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=5">How to Make Green Tea like a Master</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=6">Production areas</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=1">Videos</a></li>
+		<li><a href="http://sommelier-the-japonais.blogspot.com/" target="_blank">Blog in French</a></li>
+		<li><a href="https://japaneseteasommelier.wordpress.com/" target="_blank">Blog in English</a></li>
+	 </ul>
+</div>
+<li class="information-li"><a class="drop">Information  </a>
+  <div class="dropdown col-3">
+	 <ul>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=2">About Thés du Japon</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=26">Boutique in Yanaka</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=24">Events & activities</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=11">General conditions of sale</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=17">Shopping Guide</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=27">About us</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=10">Contact us</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=privacy">Privacy Notice</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=site_map">Site Map</a></li>
+	 </ul>
+</div>
+<li class="information-li"><a class="drop">Customers</a>
+  <div class="dropdown col-3">
+	 <ul>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=create_account">Member registration</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=login">Login</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=account">My Account</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=shopping_cart">Shopping Cart(The Shopping Cart?)</a></li>
+		<li><a href="https://www.thes-du-japon.com/index.php?main_page=page_3">Suscribe to our newsletter</a></li>
+	 </ul>
+</div>
+    </ul><!-- eof mega-menu -->
+    
+</div><!-- eof mega-wrapper -->
+ 
+                                <!--eof-mega menu display-->
+                             
+                        </div>                       
+                    </div>
+               </div>
+            </div>
+        </header>
+    
+
+                    <div id="tagline">TagLine Here</div>
+       
+
+
+
+
+    <!-- ========== CATEGORIES TABS ========= -->
+            <!-- ==================================== -->
+                
+    
+    <!-- ============================ -->
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+                  </div>
+      </div>
+    </div>
+                    <div class="slider"> 
+          <!-- begin edit for ZX Slideshow -->
+                    <script>
+jQuery(window).load(function() {
+        jQuery('#slider').nivoSlider({
+			effect: 'fade',
+			animSpeed: 500,
+ 	        pauseTime: 3000,
+			directionNav: true,
+			directionNavHide: true,
+ 	        controlNav: false,
+			pauseOnHover: true,
+			captionOpacity: 0.8			});
+    });
+
+</script>
+
+<div class="slider-wrapper theme-default">
+    	<div id="slider" class="nivoSlider">
+
+<img src="images/slider/202212welcome_en.jpg" class="img-responsive" alt="Welcome to Thés du Japon" width="2048" height="580" />
+<a href="index.php?main_page=index&cPath=1_130"><img src="images/slider/202212selection_en.jpg" class="img-responsive" alt="Single origin teas selected for you by a seasoned professional" width="2048" height="580" /></a>
+<a href="index.php?main_page=index&cPath=2_129_192"><img src="images/slider/202307_shiraiwa.jpg" class="img-responsive" alt="Shiraiwa Taisuke" width="2048" height="580" /></a>
+<a href="index.php?main_page=index&cPath=2_129_208"><img src="images/slider/202304_kikuchi.jpg" class="img-responsive" alt="Kikuchi Shingo" width="2048" height="580" /></a>
+
+</div>
+</div>                    <!-- end edit for ZX Slideshow --> 
+</div>      <div class="container">
+        <div id="banners1">
+          <div class="row">
+<div class="col-sm-4 col-xs-12 item item_1">
+<a href="index.php?main_page=index&cPath=130"><img src="images/item1.jpg" class="img-responsive" alt="Sale50% OFF shop now! Types of Japanese tea" title=" Sale50% OFF shop now! Types of Japanese tea " width="370" height="220" /><div class="title"><div class="capt">
+<h4 class="animated bounceInLeft">Only</h4>
+<h3 class="animated bounceInRight">single estate</h3>
+<strong class="animated bounceInLeft">shop now!</strong>
+</div>
+<span>Types of Japanese tea</span></div></a>
+</div>
+
+<div class="col-sm-4 col-xs-12 item item_2">
+<a href="index.php?main_page=index&cPath=115"><img src="images/item2.jpg" class="img-responsive" alt="Sale40% off shop now! producing regions" title=" Sale40% off shop now! producing regions " width="370" height="220" /><div class="title"><div class="capt">
+<h4 class="animated bounceInLeft">From all over</h4>
+<h3 class="animated bounceInRight">Japan</h3>
+<strong class="animated bounceInLeft">shop now!</strong>
+</div>
+<span>producing regions</span></div></a>
+</div>
+
+<div class="col-sm-4 col-xs-12 item item_3">
+<a href="index.php?main_page=index&cPath=116"><img src="images/item3.jpg" class="img-responsive" alt="Sale30% off shop now! cultivers" title=" Sale30% off shop now! cultivers " width="370" height="220" /><div class="title"><div class="capt">
+<h4 class="animated bounceInLeft">Tea cépage</h4>
+<h3 class="animated bounceInRight">aromas</h3>
+<strong class="animated bounceInLeft">shop now!</strong>
+</div>
+<span>Japanese tea cultivars</span></div></a>
+</div>
+
+<div class="col-sm-4 col-xs-12 item item_4">
+<a href="index.php?main_page=index&cPath=127"><img src="images/item4.jpg" class="img-responsive" alt="Sale45% off shop now! types of accessories" title=" Sale45% off shop now! types of accessories " width="370" height="220" /><div class="title"><div class="capt">
+<h4 class="animated bounceInLeft">Artisan made</h4>
+<h3 class="animated bounceInRight">teaware</h3>
+<strong class="animated bounceInLeft">shop now!</strong></div><span>types of accessories</span></div></a>
+</div>
+
+<div class="col-sm-4 col-xs-12 item item_5">
+<a href="index.php?main_page=index&cPath=128"><img src="images/item5.jpg" class="img-responsive" alt="Sale35% off shop now! production centres" title=" Sale35% off shop now! production centres " width="370" height="220" /><div class="title"><div class="capt">
+<h4 class="animated bounceInLeft">Various regional</h4>
+<h3 class="animated bounceInRight">style</h3>
+<strong class="animated bounceInLeft">shop now!</strong></div><span>production centres</span></div></a>
+</div>
+
+<div class="col-sm-4 col-xs-12 item item_6"><a href="index.php?main_page=index&cPath=2_129"><img src="images/item6.jpg" class="img-responsive" alt="Sale20% off shop now! Artisans & workshops" title=" Sale20% off shop now! Artisans & workshops " width="370" height="220" /><div class="title"><div class="capt">
+<h4 class="animated bounceInLeft">Skillful Japanese</h4>
+<h3 class="animated bounceInRight">artisans</h3>
+<strong class="animated bounceInLeft">shop now!</strong></div><span>Artisans & workshops</span></div></a>
+</div>
+
+</div>
+</div>
+</div>        <div class="container">
+    <div class="row">
+      <div class="main-col 
+	  
+	   left_column      col-sm-12 ">
+
+		 <div class="row">
+
+        <div class="center_column col-xs-12
+				col-sm-12 with_col ">
+          <div class="centerColumn" id="indexDefault">
+
+
+<!-- deprecated - to use uncomment this section
+<div id="" class="content">This is the main define statement for the page for english when no template defined file exists. It is located in: <strong>/includes/languages/english/index.php</strong></div>
+-->
+
+<!-- deprecated - to use uncomment this section
+<div id="" class="content">Define your main Index page copy here.</div>
+-->
+
+<div id="indexDefaultMainContent"><dt>2023.7.14 :</dt> 
+<dd>8 new <a href="index.php?main_page=index&cPath=1_3">sencha</a> / 3 new <a href="index.php?main_page=index&cPath=1_31">kama-iri cha</a> / 3 new <a href="index.php?main_page=index&cPath=1_33">black tea</a> / 23 new <a href="index.php?main_page=index&cPath=2_9">kyûsu</a></dd>
+<dt>2023.6.30 :</dt> 
+<dd>1 new <a href="index.php?main_page=index&cPath=1_3">sencha</a> </dd>
+<dt>2023.6.26 :</dt> 
+<dd>2 new <a href="index.php?main_page=index&cPath=1_3">sencha</a> </dd>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<!-- bof: featured products  -->
+<div class="centerBoxWrapper clearfix" id="featuredProducts">
+
+	  <h2 class="centerBoxHeading">New Products</h2>
+	  <ul class="prod-list1 w25">
+
+    <li class="centerBoxContentsFeatured centeredContent back  i1" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_9&amp;products_id=1557"><img src="images/New_images/1557.jpg" class="img-responsive" alt="Tokoname-yaki kyûsu teapot “mogake” by Murata Yoshiki 170 ml" title=" Tokoname-yaki kyûsu teapot “mogake” by Murata Yoshiki 170 ml " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_9&amp;products_id=1557">Tokoname-yaki kyûsu teapot “mogake” by Murata Yoshiki   170 ml</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD312.63</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=1557"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_9&amp;products_id=1557"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>    <li class="centerBoxContentsFeatured centeredContent back  i2" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=511"><img src="images/New_images/511.jpg" class="img-responsive" alt="Sencha from Asamiya, Kôshun cultivar 100g" title=" Sencha from Asamiya, Kôshun cultivar 100g " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=511">Sencha from Asamiya, Kôshun cultivar 100g</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD14.32</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=511"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=511"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>    <li class="centerBoxContentsFeatured centeredContent back  i3" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_33&amp;products_id=1645"><img src="images/New_images/1645.jpg" class="img-responsive" alt="Black tea from Mamihara, Unkai cultivar, 1st flush 30g" title=" Black tea from Mamihara, Unkai cultivar, 1st flush 30g " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_33&amp;products_id=1645">Black tea from Mamihara, Unkai cultivar, 1st flush 30g</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD16.00</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=1645"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_33&amp;products_id=1645"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>    <li class="centerBoxContentsFeatured centeredContent back  i4" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_31&amp;products_id=618"><img src="images/New_images/618.jpg" class="img-responsive" alt="Kama-iri cha from Takachiho, Mine Kaori cultivar 100g" title=" Kama-iri cha from Takachiho, Mine Kaori cultivar 100g " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_31&amp;products_id=618">Kama-iri cha from Takachiho, Mine Kaori cultivar  100g</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD16.00</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=618"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_31&amp;products_id=618"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>
+
+    <li class="centerBoxContentsFeatured centeredContent back  i1" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_15&amp;products_id=1635"><img src="images/New_images/1635.jpg" class="img-responsive" alt="Nanbu tetsubin kettle from Mizusawa, &quot;Nanbu-gata&quot;, by Kikuchi Shingo 1300 ml" title=" Nanbu tetsubin kettle from Mizusawa, &quot;Nanbu-gata&quot;, by Kikuchi Shingo 1300 ml " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_15&amp;products_id=1635">Nanbu tetsubin kettle from Mizusawa, "Nanbu-gata", by Kikuchi Shingo 1300 ml</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD875.37</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=1635"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_15&amp;products_id=1635"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>    <li class="centerBoxContentsFeatured centeredContent back  i2" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_9&amp;products_id=916"><img src="images/New_images/916.jpg" class="img-responsive" alt="Tea pot &quot;yôhen&quot; by Shiraiwa Taisuke, 150ml" title=" Tea pot &quot;yôhen&quot; by Shiraiwa Taisuke, 150ml " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_9&amp;products_id=916">Tea pot "yôhen" by Shiraiwa Taisuke, 150ml</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD421.05</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=916"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=2_127_9&amp;products_id=916"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>    <li class="centerBoxContentsFeatured centeredContent back  i3" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=1071"><img src="images/New_images/1071.jpg" class="img-responsive" alt="Sencha from Asamiya, Yamakai cultivar 40g～100g" title=" Sencha from Asamiya, Yamakai cultivar 40g～100g " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=1071">Sencha from Asamiya, Yamakai cultivar 40g～100g</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD7.68</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=1071"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=1071"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>    <li class="centerBoxContentsFeatured centeredContent back  i4" style="width:25%;"><div class="product-col" data-match-height="feat_prod">
+				<div class="img">
+					<a href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=543"><img src="images/New_images/543.jpg" class="img-responsive" alt="Sencha from Fujieda, Fuji-kaori cultivar 40g～100g" title=" Sencha from Fujieda, Fuji-kaori cultivar 40g～100g " width="270" height="203"  style="max-width:270px" /></a>
+				</div>
+				<div class="prod-info">
+					<h5><a class="product-name name" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=543">Sencha from Fujieda, Fuji-kaori cultivar  40g～100g</a></h5>
+					<div class="price">
+						<strong><span class="productSalePrice">USD8.42</span></strong>
+					</div>
+				
+						<div class="clearfix"></div>
+						<div class="product-buttons">
+							<div class="button"><a class="btn add-to-cart" href="https://www.thes-du-japon.com/index.php?main_page=index&amp;action=buy_now&amp;products_id=543"><span class="cssButton normal_button button  button_add_to_cart" onmouseover="this.className='cssButtonHover normal_button button  button_add_to_cart button_add_to_cartHover'" onmouseout="this.className='cssButton normal_button button  button_add_to_cart'">&nbsp;Add to Cart&nbsp;</span></a></div>
+							<div class="button1"><a class="btn btn-details" href="https://www.thes-du-japon.com/index.php?main_page=product_info&amp;cPath=1_130_3&amp;products_id=543"><span class="cssButton normal_button button  button_goto_prod_details" onmouseover="this.className='cssButtonHover normal_button button  button_goto_prod_details button_goto_prod_detailsHover'" onmouseout="this.className='cssButton normal_button button  button_goto_prod_details'">&nbsp;Details&nbsp;</span></a></div>
+						</div>	
+				</div>
+			</div></li>
+ 
+</ul>
+</div>
+<!-- eof: featured products  -->
+
+
+
+
+
+</div>        </div>
+      
+                      </div>
+                </div>
+                    <aside class="column left_column col-xs-12 col-sm-3">
+	                       </aside>
+              </div> 
+    </div>
+      
+<div id="banners2" class="clearfix">
+<div class="row">
+
+<div class="col-sm-4 col-xs-4 item item_1">
+<a href="index.php?main_page=page&id=2"><img src="images/item11.jpg" class="img-responsive" alt="about thes du japonconse adipisicing  shop now!" title=" about thes du japonconse adipisicing  shop now! " width="662" height="580" /><div class="title"><div class="capt">
+<h5 class="animated fadeInRight">青鶴茶舗 (AOZURUCHAHO)</h5>
+<h4 class="animated bounceInRight">about<i>Thés du Japon</i></h4>
+<!--<strong class="animated bounceInRight">shop now!</strong>--></div></div></a>
+</div>
+
+<div class="col-sm-4 col-xs-4 item item_2">
+<a href="index.php?main_page=page&id=26"><img src="images/item12.jpg" class="img-responsive" alt="ABOUT YANAKA SHOPnostrud tation  shop now!" title=" ABOUT YANAKA SHOPnostrud tation  shop now! " width="664" height="580" /><div class="title"><div class="capt">
+<h5 class="animated fadeInRight">青鶴茶舗 (AOZURUCHAHO)</h5>
+<h4 class="animated bounceInRight">about<i>Tokyo-Yanaka store</i></h4>
+<!--<strong class="animated bounceInLeft">shop now!</strong>--></div></div></a>
+</div>
+
+<div class="col-sm-4 col-xs-4 item item_3">
+<a href="index.php?main_page=page&id=24"><img src="images/item13.jpg" class="img-responsive" alt="ABOUT YANAKA SHOPnostrud tation  shop now!" title=" ABOUT YANAKA SHOPnostrud tation  shop now! " width="664" height="580" /><div class="title"><div class="capt">
+<h5 class="animated fadeInRight">青鶴茶舗 (AOZURUCHAHO)</h5>
+<h4 class="animated bounceInRight">about<i>Events<br>&<br>activities</i></h4>
+<!--<strong class="animated bounceInLeft">shop now!</strong>--></div></div></a>
+</div>
+
+</div>
+</div>        <div class="container">
+          <!--bof-custom block display-->
+            <!-- bof tm custom block -->
+ 
+<div class="tm_custom_block">
+    <ul class="row">
+        <li data-match-height="items-a" class="col-xs-12 col-sm-4 item1"><div data-match-height="items-a" class="inner">
+<a href="https://japaneseteasommelier.wordpress.com//"><img src="images/custom_img_1.gif" alt="Japanese Tea Sommelier blog"/></a></div></li>
+
+        <li data-match-height="items-a" class="col-xs-12 col-sm-4 item2"><div data-match-height="items-a" class="inner"><a href="http://sommelier-the-japonais.blogspot.com/"><img src="images/custom_img_2.gif" alt="SOMMELIER EN THÉ JAPONAIS blog"/></a></div></li>
+
+        <li data-match-height="items-a" class="col-xs-12 col-sm-4 item3"><div data-match-height="items-a" class="inner"><img src="images/custom_img_3.jpg" alt="Method of payment"/></a></div></li>
+
+    </ul>
+</div>
+<!-- eof tm custom block -->
+          <!--eof-custom block display-->
+        </div>
+        </section>
+<!-- ========== FOOTER ========== -->
+  <footer>
+    <div class="footer-container">
+        
+
+
+	<div class="container">
+    	<div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <div class="footer_logo">
+                <a href="https://www.thes-du-japon.com/index.php?main_page=index"><img src="includes/templates/theme870/images/logo2.png" alt="" /></a>
+            </div>
+        </div>
+		<div class="footer-menu col-xs-12 col-sm-2">
+            <h2 class="title_btn1">Link</h2>
+            <ul class="link_list">
+                            <li><a href="http://sommelier-the-japonais.blogspot.com/" target="_blank">Blog in French</a></li>
+                            <li><a href="https://japaneseteasommelier.wordpress.com/" target="_blank">Blog in English</a></li>
+                            <li><a href="https://www.instagram.com/florent_thes_du_japon/" target="_blank">Instagram</a></li>
+                            <li><a href="https://www.facebook.com/%E9%9D%92%E9%B6%B4%E8%8C%B6%E8%88%97-%E8%B0%B7%E4%B8%AD%E5%BA%97-Th%C3%A9s-du-Japon-Tokyo-Yanaka-shop-Online-shop-158193430911027/?eid=ARBZrxfFQOMVnxIHo5Kr7AtsoENxjDFnk-EWT1XI_LUPkMeOiMqTFO4GiibULNSf1RVNAc9eM7u7bUK7&timeline_context_item_type=intro_card_work&timeline_context_item_source=1583356072" target="_blank">Facebook</a></li>
+                            <li><a href="http://www.japonika.fr/" target="_blank">Japonika Hamono</a></li>
+                        </ul>
+		</div>
+        <div class="account col-xs-12 col-sm-2 mb">
+        	<h2 class="title_btn2">Information</h2>
+             <ul class="account_list">
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=2">About Thés du Japon</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=26">About Tokyo-Yanaka store</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=24">Events & activities</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=11">General conditions of sale</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=17">Shopping Guide</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=27">About us</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page&amp;id=10">Contact us</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=site_map">Site Map</a></li>
+                         </ul>   
+        </div>
+        <div class="social col-xs-12 col-sm-2 mb">
+        	<h2 class="title_btn3">Customers</h2>
+            <ul class="social_list">
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=create_account">Member registration</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=login">Login</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=account">My Account</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=shopping_cart">Shopping Cart</a></li>
+                            <li><a href="https://www.thes-du-japon.com/index.php?main_page=page_3">Subscribe to our newsletter</a></li>
+                        </ul>
+        </div>
+        <div class="contact-block col-xs-12 col-sm-3 mb">
+        	<h2 class="title_btn4">Contact Us</h2>
+            <ul class="contact_list">
+                <li>Thés du Japon</li>
+ <li>By email :<a href="mailto:contact@thes-du-japon.com">contact@thes-du-japon.com</a></li>
+ <li>By telephone : +81-3-5842-1315</li>
+ <li>By post : 	3-14-6, Yanaka, Taito-ku, Tokyo,</li>
+ <li>&emsp;&emsp;&emsp;&emsp;110-0001, JAPAN</li>            </ul>
+        </div>
+        </div>
+	</div>  
+    <div class="copyright text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- ========== COPYRIGHT ========== -->
+                    <p>&copy; 2011-2023 Japonika Co.,Ltd. All Rights Reserved.                                            </p>
+                    <!-- =============================== -->
+                </div>
+            </div>
+        </div>  
+    </div>
+
+    </div>
+  </footer>
+<!-- ============================ --> 
+</div>
+<!-- ========================================= -->
+</body>
+</html>
